@@ -2,6 +2,8 @@
 
 A Discord bot that creates and manages sticky messages with advanced features like custom embeds, variables, and automatic cleanup functionality.
 
+![image](https://github.com/user-attachments/assets/b1b8eb72-0ccf-4400-aeb3-db65c0f0e61e)
+
 ## ✨ Features
 
 ### 🎯 Core Features
