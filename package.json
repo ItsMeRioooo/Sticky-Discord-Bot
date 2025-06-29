@@ -1,0 +1,37 @@
+{
+  "name": "sticky-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that creates and manages sticky messages with advanced features like custom embeds, variables, and cleanup functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "sticky",
+    "message",
+    "embed",
+    "variables",
+    "slash-commands",
+    "moderation"
+  ],
+  "author": "ItsMeRioooo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItsMeRioooo/Sticky-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsMeRioooo/Sticky-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/ItsMeRioooo/Sticky-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

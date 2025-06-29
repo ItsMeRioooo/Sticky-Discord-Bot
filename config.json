@@ -1,0 +1,25 @@
+{
+  "botName": "Sticky Bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing sticky messages",
+  "features": [
+    "Set sticky messages in channels",
+    "Remove sticky messages",
+    "List all sticky messages",
+    "Persistent storage",
+    "Permission-based commands"
+  ],
+  "permissions": {
+    "required": [
+      "SEND_MESSAGES",
+      "MANAGE_MESSAGES", 
+      "EMBED_LINKS",
+      "READ_MESSAGE_HISTORY",
+      "USE_SLASH_COMMANDS"
+    ],
+    "adminCommands": [
+      "sticky-set",
+      "sticky-remove"
+    ]
+  }
+}
